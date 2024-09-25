@@ -1,3 +1,8 @@
+#installations for pip libraries in terminal for code
+#python3 -m pip install opencv-python
+#python3 -m pip install numpy
+#python3 -m pip install opencv-contrib-python
+
 import cv2
 import time
 import numpy as np
